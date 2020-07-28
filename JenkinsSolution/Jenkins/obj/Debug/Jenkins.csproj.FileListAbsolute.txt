@@ -1,0 +1,7 @@
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\bin\Debug\Jenkins.exe.config
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\bin\Debug\Jenkins.exe
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\bin\Debug\Jenkins.pdb
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\obj\Debug\Jenkins.csprojAssemblyReference.cache
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\obj\Debug\Jenkins.csproj.CoreCompileInputs.cache
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\obj\Debug\Jenkins.exe
+C:\Users\Kunal\Desktop\LTI\DOT NET\Day\JenkinsSolution\Jenkins\obj\Debug\Jenkins.pdb
